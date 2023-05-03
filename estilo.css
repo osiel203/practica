@@ -1,0 +1,16 @@
+.input-login{ /*email, password*/
+    width: 280px;
+    outline: none; /*quitar borde azul*/
+    height: 30px;
+    border-color: red;
+    border-radius: 5px;
+
+}
+.submit{ /*submit*/
+    background-color: black;
+    height: 40px;
+    width: 150px;
+    border: none;
+    color: blue;
+
+}
